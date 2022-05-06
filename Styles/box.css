@@ -1,0 +1,88 @@
+.main_box{
+    background-color: #616FA0;
+    color: #FFFFFF;
+    margin: 0 6% 0 5%;
+    padding: 1%;
+    border: 2.5px solid #FFFFFF;
+}
+
+.main_box .textbox{
+    font-size: 24px;
+    margin: 20% 35%;
+    text-align: center;
+}
+
+.main_box .box{
+    margin: 0 1%;
+    padding: 1.5% 0;
+}
+
+.main_box .box .box1 u{
+    font-size: 24px;
+}
+
+.main_box .box .box1{
+    font-size: 20px;
+}
+
+.main_box .box .box1 .box2{
+    margin: 3% 1%;
+}
+
+.main_box .box .box1 .box2 .br{
+    margin: 3% 0;
+    padding: 0;
+    display: flex;
+}
+
+.main_box .box .box1 .box2 .br p{
+    margin: 0; 
+    padding: 5px 0;
+    text-align: center;
+}
+
+.main_box .box .box1 .box2 .br .box2-1{
+    text-align: center;
+    margin: 0 2% 0 1%;
+    padding: 5px;
+    width: 15%;
+    background: #FFFFFF;
+    color: #616FA0;
+}
+
+.main_box .box .box1 .box2 .br .box2-2{
+    text-align: center;
+    margin: 0 2% 0 1%;
+    padding: 5px;
+    width: 30%;
+    background: #FFFFFF;
+    color: #616FA0;
+}
+
+.main_box .box .box1 .box2 .br .box2-3{
+    text-align: center;
+    margin: 0 2% 0 1%;
+    padding: 5px;
+    width: 20%;
+    background: #FFFFFF;
+    color: #616FA0;
+}
+
+.main_box .box .box1 .box2 .br .box2-4{
+    text-align: center;
+    margin: 0 2% 0 1%;
+    padding: 5px;
+    width: 5%;
+    background: #FFFFFF;
+    color: #616FA0;
+}
+
+.main_box .box .box1 .box2 .br .box2-5{
+    text-align: center;
+    margin: 0 2% 0 1%;
+    padding: 5px;
+    width: 85%;
+    background: #FFFFFF;
+    color: #616FA0;
+}
+
